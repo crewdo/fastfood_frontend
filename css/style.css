@@ -479,7 +479,7 @@ ul.multi-column-dropdown:nth-child(3) {
 .cd-search input {
     border-radius: 0;
     border: none;
-    background: #00a6d6;
+    background: #ff2f21;
     width: 100%;
     padding: 0 5%;
 	-webkit-box-shadow: inset 0 1px 0 #e2e3df, 0 3px 6px rgba(0, 0, 0, 0.05);
@@ -720,7 +720,7 @@ h3.title span {
     margin: .5em 0 .3em;
 }
 .gallery-grid:hover .gallery-text h5 a{
-    color: #00a6d6;
+    color: #ff2f21;
 }
 .gallery-grid:hover .gallery-text p {
     margin-bottom: 0em;
@@ -734,7 +734,7 @@ h3.title span {
 	box-shadow: 0px 0px 6px 1px #E6E6E6;
 }
 .trend-info {
-    background: #00a6d6;
+    background: #ff2f21;
     padding: 4em 12em 3em 3em;
 }
 .trend-slider h4 {
@@ -875,7 +875,7 @@ h3.title span {
     width: 23.4%;
     padding: 0;
     overflow: hidden;
-	border: 3px solid #00a6d6;
+	border: 3px solid #ff2f21;
 }
 .new-grid.new-mdl {
     margin: 0 1.5em;
@@ -929,7 +929,7 @@ h3.title span {
     background: #fff;
 }
 .new-text {
-    background: #00a6d6;
+    background: rgba(255, 47, 33, 0.9);
     padding: 2em;
     position: absolute;
     top: 16%;
@@ -1261,7 +1261,7 @@ input#amount {
     text-transform: uppercase;
     font-size: 1.8em;
     font-weight: 900;
-    color: #00a6d6;
+    color: #ff2f21;
 }
 /*--single-ratings--*/
 .single-rating {
@@ -1435,8 +1435,8 @@ h4.panel-title a {
 }
 .panel-default > .panel-heading {
     color: #fff;
-    background-color: #00a6d6;
-    border-color: #00a6d6;
+    background-color: #ff2f21;
+    border-color: #ff2f21;
     padding: 0;
 }
 /*--//single-page--*/
@@ -1583,11 +1583,11 @@ h4.panel-title a {
     padding: 5em 0;
 }
 .address-grid {
-    background-color:rgba(0, 166, 214, 0.7);
+    background-color:rgba(251, 15, 0, 0.6);;
     padding: 4em;
 }
 .address-info {
-    background-color:rgba(0, 166, 214, 0.7);
+    background-color:rgba(251, 15, 0, 0.6);;
     padding: 3em 4em;
 }
 .address-info.address-mdl {
@@ -1794,7 +1794,7 @@ ul.qty li p {
 /*--faq--*/
 .faq-info a {
     padding: 1em 1.5em;
-    background: #00a6d6;
+    background: #ff2f21;
 }
 .faq-info .faq li p {
     font-size: 1em;

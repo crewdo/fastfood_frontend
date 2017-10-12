@@ -1,3 +1,43 @@
 .logo h1 a{
     color: #ff590f;
 }
+.banner-right{
+	background:#eee817;
+}
+.intro-banner{
+	font-size: 50px;
+	color: black;
+	font-family: 'Pompiere', cursive;
+	text-align: center;
+}
+.cd-search input{
+	background: #ff2f21;
+}
+.breadcrumbs{
+    background: #f94236;
+}
+.breadcrumb1 li a{
+	color: #f9d100;
+}
+.breadcrumb1 li span{
+	    color: #f9d100;
+}
+.address input[type="submit"]{
+	    background: #ffb821;
+    border: solid 1px #ffb821;
+}
+.new-text ul li a:hover{
+/*	color: #dcd9d9;
+    border-color: ##dcd9d9;*/
+}
+
+.trend-slider h5, .trend-slider h4{
+	color: yellow;
+}
+.flex-control-paging li a{
+	background:white;
+}
+.flex-control-paging li a.flex-active
+{
+	background-color: black;
+}
