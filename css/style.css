@@ -17,9 +17,15 @@ body a{
 	-ms-transition: 0.5s all;
 	text-decoration:none;
 }
+
+@font-face{
+    font-family: 'Asheron';
+    src: url('../fonts/Asheron.otf')
+        
+}
 h1,h2,h3,h4,h5,h6{
 	margin:0;	
-	font-family: 'Pompiere', cursive;
+	font-family: 'Asheron';
 }
 p{
 	margin:0;
@@ -1235,7 +1241,7 @@ input#amount {
     margin-top: 2em;
 }
 .rsidebar .gallery-text h4.sizes {
-    font-family: 'Pompiere', cursive;
+    font-family: 'Asheron';
     font-size: 1.4em;
     color: #353F49;
     text-transform: inherit;
@@ -1370,7 +1376,7 @@ input#amount {
 .single-top-left ul li a {
     color: #999;
     font-weight: 600;
-    font-family: 'Pompiere', cursive;
+    font-family: 'Asheron';
     font-size: 1em;
     letter-spacing: 1px;
 }
