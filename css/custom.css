@@ -38,3 +38,7 @@
 {
 	background-color: black;
 }
+.cd-header-buttons {
+	top: -50px;
+    right: 0;
+}
