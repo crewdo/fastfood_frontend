@@ -42,3 +42,9 @@
 	top: -50px;
     right: 0;
 }
+
+.rating{
+	float: none;
+	text-align: left;
+	
+}

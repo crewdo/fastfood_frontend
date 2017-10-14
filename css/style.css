@@ -23,10 +23,35 @@ body a{
     src: url('../fonts/Asheron.otf')
         
 }
-h1,h2,h3,h4,h5,h6{
-	margin:0;	
-	font-family: 'Asheron';
+
+
+@font-face{
+    font-family: 'RobotoSlab';
+    src: url('../fonts/RobotoSlab-Regular.ttf')
+        
 }
+
+@font-face{
+    font-family: 'Comfortaa';
+    src: url('../fonts/Comfortaa-Regular.ttf')
+        
+}
+@font-face{
+    font-family: 'Lora';
+    src: url('../fonts/Lora-Regular.ttf')
+        
+}
+h1,h2,h3{
+	margin:0;	
+	font-family: 'Comfortaa';
+}
+
+h4,h5,h6{
+	margin:0;	
+	font-family: 'Comfortaa';
+}
+
+
 p{
 	margin:0;
 }
@@ -663,7 +688,7 @@ h3.title span {
 	margin-top: -2em;
 }
 .gallery-text h5 {
-    font-size: 2em;
+    font-size: 1.6em;
     margin: 1em 0 .3em;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
@@ -890,7 +915,7 @@ h3.title span {
     margin-right:1.5em;
 }
 .new-bottom h5 {
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-weight: 900;
     display: inline-block;
 }
@@ -2119,7 +2144,7 @@ h2.typoh2{
     margin-right: 1em;
 }
 .new-bottom h5 {
-    font-size: 1.5em;
+    font-size: 18px;
 }
 .rating span {
     font-size: 1.1em;
@@ -3348,4 +3373,6 @@ ul.qty li {
     padding: 0.6em 0em;
 }
 }
+
+
 /*--//responsive-design---*/
