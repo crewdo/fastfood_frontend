@@ -57,3 +57,6 @@ ul#example li{
 .slides{
 	color: #f94236;
 }
+.faq > li > a{
+	color: black;
+}
