@@ -60,3 +60,14 @@ ul#example li{
 .faq > li > a{
 	color: black;
 }
+.new-add h5{
+	color: white;
+	font-family: 'Comfortaa';
+	font-size: 0px;
+}
+.address-info{
+	background: rgba(0, 0, 0, 0.6);
+}
+.address-grid{
+	background: rgba(0, 0, 0, 0.6);
+}
