@@ -8,7 +8,7 @@
 	text-align: center;
 }
 .cd-search input{
-	background: #ff2f21;
+	background: #f94236;
 }
 .breadcrumbs{
     background: #f94236;
@@ -79,4 +79,8 @@ ul#example li{
 }
 .single-top-left{
 	padding-top: 5px
+}
+.cd-search input{
+font-size: 1.1em;
+padding: 1.35em 2em;
 }
