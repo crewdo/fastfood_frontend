@@ -74,3 +74,9 @@ ul#example li{
 .gallery-grid{
 	height: 29em;
 }
+.rsidebar .gallery-grid{
+	height: 25.5em;
+}
+.single-top-left{
+	padding-top: 5px
+}
